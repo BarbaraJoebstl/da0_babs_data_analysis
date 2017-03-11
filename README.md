@@ -14,6 +14,6 @@ Those libraries are used:
 - numpy
 
 ##Data
-The data used is provided in this project with the stroopdata.csv.
+The data used is provided in this project folder.
  
 
